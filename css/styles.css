@@ -271,9 +271,6 @@ img {
 .team-icon {
     fill: #f4f4fd;
 }
-.team-member-card:hover .team-icon-bg {
-    background-color: #404BBF;
-}
 
 /* Our Portfolio section */
 .portfolio-title-main {
