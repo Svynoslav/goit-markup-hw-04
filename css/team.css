@@ -1,0 +1,30 @@
+.team-section {
+  background-color: #f4f4fd;
+}
+
+.team-list {
+  display: flex;
+  gap: 24px;
+}
+
+.team-card {
+  background-color: #fff;
+  padding-bottom: 32px;
+  border-radius: 0 0 4px 4px;
+}
+
+.team-img {
+  margin-bottom: 32px;
+}
+
+.team-text-wrap {
+  padding: 32px 16px;
+}
+
+.team-card-title {
+  text-align: center;
+}
+
+.team-card-text {
+  text-align: center;
+}
