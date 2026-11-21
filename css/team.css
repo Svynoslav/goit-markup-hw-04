@@ -46,3 +46,7 @@
 .team-socials-link:focus {
   background-color: #404bbf;
 }
+
+.team-icon {
+  color: #f4f4fd;
+}
